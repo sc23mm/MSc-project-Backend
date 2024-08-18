@@ -12,9 +12,11 @@
 
 `pip install flask-cors`
 
-##CHANGE THE PATH TO THE SAVED HYBRID MODEL DIRECTORY FOLDER WHICH IS PRESENT IN THIS REPO `https://github.com/sc23mm/MSc-Project` or `https://leeds365-my.sharepoint.com/:f:/g/personal/sc23mm_leeds_ac_uk/EuIZg_zdnFNLjeNp9vOYBakBrYcgUKxjqEQIn3VroOfv7Q?e=cOSxAg` 
+##DOWNLOAD HYBRID MODEL DIRECTORY FOLDER WHICH IS PRESENT IN THIS REPO `https://github.com/sc23mm/MSc-Project` or `https://leeds365-my.sharepoint.com/:f:/g/personal/sc23mm_leeds_ac_uk/EuIZg_zdnFNLjeNp9vOYBakBrYcgUKxjqEQIn3VroOfv7Q?e=cOSxAg` 
 
-in the `app.py` file line no 21 `model_dir = "give your own directory path to the model saved_model_hybrid_one" `
+## CHANGE THE DIRECTORY PATH NAME IN THE `app.py` TO THE HYBRID MODEL DIRECTORY
+
+in the `app.py` file line no 21 `model_dir = "give your own directory path to the model[/MSc-Project]" `
 
 ##RUN THE APP
 
